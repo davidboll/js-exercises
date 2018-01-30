@@ -52,3 +52,11 @@ function myFullName(firstName, lastName) {
 }
 
 myFullName('David', 'Boll');
+
+/* Javascript Exercise #3 */
+
+/* What is this? Does it have an equivalent in Ruby?
+
+
+
+*/
